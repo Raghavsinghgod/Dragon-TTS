@@ -1,0 +1,17 @@
+{
+  "name": "dragon stt",
+  "short_name": "dragon stt",
+  "description": "offline speech to text. nothing leaves the device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16110d",
+  "theme_color": "#e8632c",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
